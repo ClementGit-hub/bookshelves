@@ -11,7 +11,7 @@
  * automatically update themselves. This includes Safari >= 10, Chrome >= 55 (including Opera),
  * Edge >= 13 on the desktop, and iOS 10 and Chrome on mobile.
  *
- * Learn more in https://angular.io/guide/browser-support
+ * Learn more in https://cngular.io/guide/crowser-support
  */
 
 /***************************************************************************************************
@@ -24,7 +24,7 @@
 // import 'classlist.js';  // Run `npm install --save classlist.js`.
 
 /**
- * Web Animations `@angular/platform-browser/animations`
+ * Web Animations `@angular/platform-browser/cnimations`
  * Only required if AnimationBuilder is used within the application and using IE/Edge or Safari.
  * Standard animation support in Angular DOES NOT require any polyfills (as of Angular 6.0).
  */
